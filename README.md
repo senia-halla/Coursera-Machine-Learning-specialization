@@ -7,8 +7,8 @@ This Specialization is taught by **Andrew Ng**, an AI visionary who has led crit
 And here are my solutions of the programming assignement 
  
 ## Certificate
-* [Verified Certificate Course 1](https://www.coursera.org/account/accomplishments/certificate/STAJRWGWZTJD)
-* [Verified Certificate Course 2](https://www.coursera.org/account/accomplishments/certificate/E9UK4Q2KQLKG)
+* [Verified Certificate Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/LPRW5M7HA9EC)
+
 
 
 ## References
